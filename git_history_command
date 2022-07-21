@@ -1,0 +1,43 @@
+cd ~
+  505  ls
+  506  Cd Desktop/
+  507  cd Desktop/
+  508  ls
+  509  mkdir vinay
+  510  ls
+  511  cd vinay
+  512  cd ..
+  513  cp vinay.py vinay123.py vinay/
+  514  cd vinay
+  515  ls
+  516  git init
+  517  ls -la
+  518  git status
+  519  git add vinay.py vinay123.py
+  520  git staus
+  521  git status
+  522  git commit -m "1st commit"
+  523   git config --global user.email "bobbalavinaykumar24@gmail.com"
+  524   git config --global user.name "vinay4674"
+  525  git commit -m "1st commit"
+  526  git status
+  527  git branch -M 'main'
+  528  git remote add origin git@github.com:vinay4674/python.git
+  529  git remote -v
+  530  git push -u origin 'main'
+  531  cd ../..
+  532  pwd
+  533  ls -la
+  534  ls -la .ssh/
+  535  ssh-keygen.exe
+  536  ls -la .ssh/
+  537  cat .ssh/id_rsa.pub
+  538  cd Desktop/vinay
+  539  ls
+  540  git status
+  541  git push -u origin 'main'
+  542  history
+  543  history | tail -n 30
+  544  history | tail -n 35
+  545  history | less
+
